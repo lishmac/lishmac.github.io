@@ -8,6 +8,11 @@ body {
   margin: 0 auto;
 }
 
+.linkedin{
+  max-height: 100%;
+  width: 10%;
+  float: left;
+}
 
 /* HEADING */
 
